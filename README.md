@@ -1,5 +1,6 @@
-
 Dante Bugiani
+
+Cyber security analyst
 
 # 🛡️ Cybersecurity Portfolio
 
