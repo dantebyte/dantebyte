@@ -51,7 +51,6 @@ Hi, I’m Dante – an aspiring cybersecurity professional with a passion for et
 - [TryHackMe](https://tryhackme.com)
 - [Hack The Box](https://hackthebox.com)
 - [OverTheWire](https://overthewire.org)
-- [CyberSecLabs](https://cyberseclabs.co.uk)
 - [Blue Team Labs Online](https://blueteamlabs.online)
 - [Awesome Hacking Resources](https://github.com/Hack-with-Github/Awesome-Hacking)
 
