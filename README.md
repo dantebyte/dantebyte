@@ -4,7 +4,7 @@ Cyber security analyst
 
 # 🛡️ Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository documents my journey through learning, practicing, and building skills in cybersecurity. It includes writeups, tool usage, labs, certifications, and more.
+Welcome to my cybersecurity portfolio! This repository documents my journey through learning, practicing, and building skills in cybersecurity. It includes OSINT, writeups, tool usage, labs, certifications, and more.
 
 ---
 
@@ -16,8 +16,8 @@ Hi, I’m Dante – an aspiring cybersecurity professional with a passion for et
 
 ## Goals
 
-- [ ] Complete TryHackMe/HTB labs
-- [ ] Build a homelab for monitoring and detection
+- [ ] Full restart of my TryHackMe/HTB labs
+- [ ] Build a new homelab for monitoring and detection
 - [ ] Get CompTIA Security+ / OSCP certified
 - [ ] Write regular CTF walkthroughs
 - [ ] Develop custom security tools/scripts
@@ -26,8 +26,8 @@ Hi, I’m Dante – an aspiring cybersecurity professional with a passion for et
 
 ## Skills & Tools
 
-- **Operating Systems**: Linux (Kali, Ubuntu), Windows
-- **Languages**: Python, Bash, PowerShell
+- **Operating Systems**: Linux (Kali, Ubuntu), Windows, Whonix, Qubes OS - Many distros
+- **Languages**: Python, Bash, PowerShell, c++
 - **Tools**: Nmap, Wireshark, Burp Suite, Metasploit, John the Ripper, Hydra
 - **Concepts**: Networking, Enumeration, Privilege Escalation, Malware Analysis
 
@@ -71,7 +71,7 @@ Feel free to connect with me:
 
 - GitHub: [dantebyte](https://github.com/dantebyte)
 - LinkedIn: [Dante](https://linkedin.com/in/dante-bugiani-a39242361)
-- Email: - in-progress
+- Email: - in-progress - [contact me here for now or linkedin](https://dantebyte.github.io/#contact)
 
 ---
 
