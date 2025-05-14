@@ -10,7 +10,39 @@ Welcome to my cybersecurity portfolio! This repository documents my journey thro
 
 ## 📚 About Me
 
-Hi, I’m Dante – an aspiring cybersecurity professional with a passion for ethical hacking, network security, and digital forensics, along side with OSINT, and malware. This portfolio is a collection of my projects, notes, and experiences as I learn and grow in the field.
+Hi, I’m Dante — an aspiring cybersecurity professional with a hands-on approach to ethical hacking, network defense, and digital forensics. My focus spans malware analysis, payload development, OSINT, darknet reconnaissance, and the growing risk posed by botnets and compromised IoT devices.
+
+While I’m not a formal SOC analyst, I’ve trained myself to detect suspicious activity, study attacker behavior, and respond to potential threats using open-source tools and real-world scenarios. I learn fast — give me a new tool, language, or concept, and I’ll get to work, adapt, and make it happen. I might not be building custom malware or frameworks from scratch, but I know how to break things down, solve problems, and get results.
+
+This portfolio includes personal projects, research notes, and the tools I've used to understand and simulate modern cyber threats. It’s a reflection of my curiosity, discipline, and growth in the field.
+
+🧰 Skills & Areas of Focus:
+Payload analysis and malware behavior
+
+Botnet mapping and infected IoT device research
+
+Social engineering tactics & phishing defense
+
+OSINT and darknet threat recon
+
+Basic detection workflows and IOC tracking
+
+Recon and reporting for larger enterprise environments
+
+Building functional tools/scripts in Python, JavaScript, HTML, and CSS
+
+Quickly picking up and applying new tools or frameworks
+
+🛠️ Tools I Work With:
+Wireshark, Burp Suite, Nmap, Shodan
+
+Metasploit, OSINT Frameworks, VirusTotal
+
+Python scripting for automation and analysis
+
+GitHub for documentation, version control, and project collaboration
+
+Browser-based tools and cloud platforms for recon and testing
 
 ---
 
@@ -68,7 +100,7 @@ Although I have not completed any certifications my previous work and proof of k
 
 Feel free to connect with me:
 
-- Services -  [My Service's](https://dantebyte.github.io/)
+- Services -  [My Service](https://dantebyte.github.io/)
 - GitHub Portfolio: [dantebyte](https://github.com/dantebyte)
 - LinkedIn: [Dante](https://www.linkedin.com/in/dante-byte/)
 - [contact me here for now or linkedin](https://dantebyte.github.io/#contact)
