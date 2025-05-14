@@ -36,13 +36,13 @@ Quickly picking up and applying new tools or frameworks
 🛠️ Tools I Work With:
 Wireshark, Burp Suite, Nmap, Shodan
 
-Metasploit, OSINT Frameworks, VirusTotal
+Metasploit, OSINT Frameworks, VirusTotal, Sandboxies and online/offline emulation tools to further analyze. 
 
-Python scripting for automation and analysis
+Python scripting for automation and analysis and more.
 
-GitHub for documentation, version control, and project collaboration
+GitHub for Portfolio, documentation, version control, and project collaboration.
 
-Browser-based tools and cloud platforms for recon and testing
+Browser-based tools and cloud platforms for more testing.
 
 ---
 
