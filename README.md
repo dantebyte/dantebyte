@@ -26,9 +26,9 @@ Hi, I’m Dante – an aspiring cybersecurity professional with a passion for et
 
 ## Skills & Tools
 
-- **Operating Systems**: Linux (Kali, Ubuntu), Windows, Whonix, Qubes OS - Many distros
-- **Languages**: Python, Bash, PowerShell, c++
-- **Tools**: Nmap, Wireshark, Burp Suite, Metasploit, John the Ripper, Hydra
+- **Operating Systems**: Linux (Kali, Ubuntu), Windows, Whonix, Qubes OS, Parrot OS, Arch, openSUSE - Many distros
+- **Languages I am either proficit or still working with**: Python, Bash, PowerShell, c++, CSS, HTML.
+- **Tools**: Nmap, Wireshark, Burp Suite, Metasploit, John the Ripper, Hydra, many linux based tools along side windows, external devices/IoT (ESB boards, Wifi adapters, Mini stations, Raspberry Pi and like devices.
 - **Concepts**: Networking, Enumeration, Privilege Escalation, Malware Analysis
 
 ---
@@ -57,7 +57,7 @@ Hi, I’m Dante – an aspiring cybersecurity professional with a passion for et
 ---
 
 ## 📄 Certifications (In Progress / Completed) 
-
+Although I have not completed any certifications my previous work and proof of knowledge should be fit however I will be having these completed in a timely manner, Thank you.
 - [ ] CompTIA Security+
 - [ ] eJPT
 - [ ] OSCP
@@ -68,10 +68,10 @@ Hi, I’m Dante – an aspiring cybersecurity professional with a passion for et
 
 Feel free to connect with me:
 
-- GitHub: [dantebyte](https://github.com/dantebyte)
-- LinkedIn: [Dante](https://linkedin.com/in/dante-bugiani-a39242361)
-- Email: - in-progress - [contact me here for now or linkedin](https://dantebyte.github.io/#contact)
-
----
+- Services -  [My Service's](https://dantebyte.github.io/)
+- GitHub Portfolio: [dantebyte](https://github.com/dantebyte)
+- LinkedIn: [Dante](https://www.linkedin.com/in/dante-byte/)
+- [contact me here for now or linkedin](https://dantebyte.github.io/#contact)
+  
 
 > 🚧 This portfolio is a work in progress and will be updated regularly as I continue.
